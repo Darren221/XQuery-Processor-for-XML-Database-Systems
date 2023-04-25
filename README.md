@@ -1,5 +1,7 @@
 # XQuery-Processor-for-XML-Database-Systems
 
+![Alt text](Project_diagram.png?raw=true "Title")
+
 Project Description:
 
 This project aims to develop an efficient XQuery processor and optimizer that can parse, evaluate, and optimize XQueries for XML files. The processor will work through a series of interconnected steps to ensure seamless query execution and optimization.
